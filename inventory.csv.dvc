@@ -1,5 +1,5 @@
 outs:
-- md5: 684a458fbbed898a1006e50cb4bd804e
-  size: 3575
+- md5: 4b849a76aacc1547767b1c62c1fb27db
+  size: 3612
   hash: md5
   path: inventory.csv
